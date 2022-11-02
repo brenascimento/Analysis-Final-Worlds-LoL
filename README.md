@@ -4,7 +4,7 @@ League of Legends é um jogo popular globalmente. Tem conquistado o coração de
 
 O Mundial de League of Legends é um dos maiores eventos(se não o maior) de eSports do mundo. O evento ocorre sempre no final do ano, agrupando os melhores times de cada região, as maiores e principais sendo China, Coréia do Sul, Europa, Vietnam, Taiwan e Estados Unidos(também conhecidos como Majors). É no Worlds que ocorre as melhores partidas, as melhores batalhas, e as melhores viradas. Lá também é onde os players fãs do eSport aprendem novas estratégias, novas mecânicas, novas maneiras de fazer as coisas acontecerem. Todos os times lutam pela taça, é o desejo de muitos jogadores. 
 
-Nesse projeto vou analisar usando dados extraídos do site: `lol.fandom.com`(conhecido como leaguepedia), e fazer modelos de Machine Learning que possa ajudar prever uma possível vitória para algum dos dois times.
+Nesse projeto vou analisar usando dados extraídos do site: `lol.fandom.com`(conhecido como leaguepedia)
 
 Para contextualizar, a final do Mundial 2022 já chegou e quem disputará a taça será os dois times sul-coreanos `T1` e `DRX`
 
