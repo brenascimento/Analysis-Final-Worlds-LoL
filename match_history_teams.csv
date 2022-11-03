@@ -1,0 +1,307 @@
+date,patch,team_1,team_2,winner_team,bans,picks,team_player,players
+2022-10-31,12.18,Gen.G,DRX,DRX,Heimerdinger,Renekton,Gen.G,Doran
+2022-10-30,12.18,Gen.G,DRX,DRX,Heimerdinger,Sejuani,Gen.G,Doran
+2022-10-30,12.18,DRX,Gen.G,DRX,Lucian,Gragas,DRX,Kingen
+2022-10-30,12.18,Gen.G,DRX,Gen.G,Heimerdinger,Fiora,Gen.G,Doran
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Heimerdinger,Jax,EDward Gaming,Flandre
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Sylas,Aatrox,EDward Gaming,Flandre
+2022-10-23,12.18,DRX,EDward Gaming,DRX,Lucian,Aatrox,DRX,Kingen
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Lucian,Aatrox,DRX,Kingen
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Lucian,Fiora,DRX,Kingen
+2022-10-16,12.18,DRX,Rogue (European Team),DRX,Ornn,Camille,DRX,Kingen
+2022-10-16,12.18,Top Esports,DRX,Top Esports,Heimerdinger,Ornn,Top Esports,Wayward
+2022-10-15,12.18,DRX,GAM Esports,DRX,Sett,Aatrox,DRX,Kingen
+2022-10-15,12.18,DRX,Rogue (European Team),DRX,Ornn,Aatrox,DRX,Kingen
+2022-10-11,12.18,GAM Esports,DRX,DRX,Azir,Jax,GAM Esports,Kiaya
+2022-10-10,12.18,DRX,Top Esports,DRX,Poppy,Gnar,DRX,Kingen
+2022-10-08,12.18,Rogue (European Team),DRX,Rogue (European Team),Sylas,Maokai,Rogue (European Team),Odoamne
+2022-10-03,12.18,DRX,MAD Lions,DRX,Draven,Camille,DRX,Kingen
+2022-10-02,12.18,Isurus,DRX,DRX,Akali,Maokai,Isurus,ADD
+2022-10-01,12.18,Istanbul Wildcats,DRX,DRX,LeBlanc,Ornn,Istanbul Wildcats,StarScreen
+2022-10-01,12.18,DRX,Saigon Buffalo,DRX,Pantheon,Aatrox,DRX,Kingen
+2022-09-30,12.18,DRX,Royal Never Give Up,DRX,Fiora,Aatrox,DRX,Kingen
+2022-10-30,12.18,JD Gaming,T1,T1,Caitlyn,Sejuani,JD Gaming,369
+2022-10-29,12.18,JD Gaming,T1,T1,Caitlyn,Renekton,JD Gaming,369
+2022-10-29,12.18,T1,JD Gaming,T1,Sejuani,Yone,T1,Zeus
+2022-10-29,12.18,T1,JD Gaming,JD Gaming,Sejuani,Camille,T1,Zeus
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Caitlyn,Aatrox,Royal Never Give Up,Breathe
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Caitlyn,Fiora,Royal Never Give Up,Breathe
+2022-10-21,12.18,T1,Royal Never Give Up,T1,Lissandra,Camille,T1,Zeus
+2022-10-13,12.18,EDward Gaming,T1,T1,Azir,Maokai,EDward Gaming,Flandre
+2022-10-13,12.18,T1,Cloud9,T1,Viktor,Jayce,T1,Zeus
+2022-10-13,12.18,T1,Fnatic,T1,Azir,Yone,T1,Zeus
+2022-10-10,12.18,Cloud9,T1,T1,Caitlyn,Jax,Cloud9,Fudge
+2022-10-08,12.18,Fnatic,T1,Fnatic,Caitlyn,Aatrox,Fnatic,Wunder
+2022-10-08,12.18,T1,EDward Gaming,T1,LeBlanc,Fiora,T1,Zeus
+2022-10-31,12.18,Gen.G,DRX,DRX,Akali,Viego,Gen.G,Peanut
+2022-10-30,12.18,Gen.G,DRX,DRX,Sylas,Trundle,Gen.G,Peanut
+2022-10-30,12.18,DRX,Gen.G,DRX,Singed,Kindred,DRX,Pyosik
+2022-10-30,12.18,Gen.G,DRX,Gen.G,Akali,Viego,Gen.G,Peanut
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Aatrox,Sejuani,EDward Gaming,JieJie
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Akali,Lee Sin,EDward Gaming,JieJie
+2022-10-23,12.18,DRX,EDward Gaming,DRX,Azir,Kindred,DRX,Pyosik
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Fiora,Poppy,DRX,Pyosik
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Ryze,Graves,DRX,Pyosik
+2022-10-16,12.18,DRX,Rogue (European Team),DRX,Lucian,Vi,DRX,Pyosik
+2022-10-16,12.18,Top Esports,DRX,Top Esports,Akali,Viego,Top Esports,Tian
+2022-10-15,12.18,DRX,GAM Esports,DRX,Sejuani,Viego,DRX,Pyosik
+2022-10-15,12.18,DRX,Rogue (European Team),DRX,Lucian,Vi,DRX,Pyosik
+2022-10-11,12.18,GAM Esports,DRX,DRX,Caitlyn,Graves,GAM Esports,Levi
+2022-10-10,12.18,DRX,Top Esports,DRX,Sejuani,Graves,DRX,Pyosik
+2022-10-08,12.18,Rogue (European Team),DRX,Rogue (European Team),Aatrox,Trundle,Rogue (European Team),Malrang
+2022-10-03,12.18,DRX,MAD Lions,DRX,Hecarim,Sejuani,DRX,Pyosik
+2022-10-02,12.18,Isurus,DRX,DRX,Caitlyn,Viego,Isurus,Grell
+2022-10-01,12.18,Istanbul Wildcats,DRX,DRX,Aatrox,Trundle,Istanbul Wildcats,Ferret
+2022-10-01,12.18,DRX,Saigon Buffalo,DRX,Hecarim,Maokai,DRX,Juhan
+2022-09-30,12.18,DRX,Royal Never Give Up,DRX,Poppy,Maokai,DRX,Pyosik
+2022-10-30,12.18,JD Gaming,T1,T1,Ryze,Bel'Veth,JD Gaming,Kanavi
+2022-10-29,12.18,JD Gaming,T1,T1,Yone,Viego,JD Gaming,Kanavi
+2022-10-29,12.18,T1,JD Gaming,T1,Viego,Poppy,T1,Oner
+2022-10-29,12.18,T1,JD Gaming,JD Gaming,Sylas,Vi,T1,Oner
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Graves,Vi,Royal Never Give Up,Wei
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Graves,Sejuani,Royal Never Give Up,Wei
+2022-10-21,12.18,T1,Royal Never Give Up,T1,Fiora,Graves,T1,Oner
+2022-10-13,12.18,EDward Gaming,T1,T1,Aatrox,Graves,EDward Gaming,JieJie
+2022-10-13,12.18,T1,Cloud9,T1,Azir,Sejuani,T1,Oner
+2022-10-13,12.18,T1,Fnatic,T1,Viktor,Sejuani,T1,Oner
+2022-10-10,12.18,Cloud9,T1,T1,Fiora,Poppy,Cloud9,Blaber
+2022-10-08,12.18,Fnatic,T1,Fnatic,Fiora,Poppy,Fnatic,Razork
+2022-10-08,12.18,T1,EDward Gaming,T1,Maokai,Lee Sin,T1,Oner
+2022-10-31,12.18,Gen.G,DRX,DRX,Aatrox,Ryze,Gen.G,Chovy
+2022-10-30,12.18,Gen.G,DRX,DRX,Aatrox,Azir,Gen.G,Chovy
+2022-10-30,12.18,DRX,Gen.G,DRX,Ryze,Ahri,DRX,Zeka
+2022-10-30,12.18,Gen.G,DRX,Gen.G,Aatrox,Sylas,Gen.G,Chovy
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Caitlyn,Akali,EDward Gaming,Scout
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Caitlyn,LeBlanc,EDward Gaming,Scout
+2022-10-23,12.18,DRX,EDward Gaming,DRX,Sejuani,Sylas,DRX,Zeka
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Renekton,Akali,DRX,Zeka
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Sejuani,Orianna,DRX,Zeka
+2022-10-16,12.18,DRX,Rogue (European Team),DRX,Maokai,Sylas,DRX,Zeka
+2022-10-16,12.18,Top Esports,DRX,Top Esports,Aatrox,Sylas,Top Esports,knight
+2022-10-15,12.18,DRX,GAM Esports,DRX,Yuumi,Sylas,DRX,Zeka
+2022-10-15,12.18,DRX,Rogue (European Team),DRX,Maokai,Akali,DRX,Zeka
+2022-10-11,12.18,GAM Esports,DRX,DRX,Maokai,Taliyah,GAM Esports,Kati
+2022-10-10,12.18,DRX,Top Esports,DRX,Renekton,Sylas,DRX,Zeka
+2022-10-08,12.18,Rogue (European Team),DRX,Rogue (European Team),Kalista,Azir,Rogue (European Team),Larssen
+2022-10-03,12.18,DRX,MAD Lions,DRX,Taliyah,Sylas,DRX,Zeka
+2022-10-02,12.18,Isurus,DRX,DRX,Aatrox,Azir,Isurus,seiya
+2022-10-01,12.18,Istanbul Wildcats,DRX,DRX,Caitlyn,Azir,Istanbul Wildcats,Serin
+2022-10-01,12.18,DRX,Saigon Buffalo,DRX,Aphelios,Azir,DRX,Zeka
+2022-09-30,12.18,DRX,Royal Never Give Up,DRX,Taliyah,Akali,DRX,Zeka
+2022-10-30,12.18,JD Gaming,T1,T1,Lucian,Sylas,JD Gaming,Yagao
+2022-10-29,12.18,JD Gaming,T1,T1,Sejuani,Azir,JD Gaming,Yagao
+2022-10-29,12.18,T1,JD Gaming,T1,Aatrox,Ryze,T1,Faker
+2022-10-29,12.18,T1,JD Gaming,JD Gaming,Aatrox,Galio,T1,Faker
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Camille,Sylas,Royal Never Give Up,Xiaohu
+2022-10-21,12.18,Royal Never Give Up,T1,T1,LeBlanc,Sylas,Royal Never Give Up,Xiaohu
+2022-10-21,12.18,T1,Royal Never Give Up,T1,Jax,Viktor,T1,Faker
+2022-10-13,12.18,EDward Gaming,T1,T1,Poppy,Lissandra,EDward Gaming,Scout
+2022-10-13,12.18,T1,Cloud9,T1,Renata Glasc,Sylas,T1,Faker
+2022-10-13,12.18,T1,Fnatic,T1,Renata Glasc,Sylas,T1,Faker
+2022-10-10,12.18,Cloud9,T1,T1,Graves,Azir,Cloud9,Jensen
+2022-10-08,12.18,Fnatic,T1,Fnatic,LeBlanc,Azir,Fnatic,Humanoid
+2022-10-08,12.18,T1,EDward Gaming,T1,Graves,Akali,T1,Faker
+2022-10-31,12.18,Gen.G,DRX,DRX,Renata Glasc,Xayah,Gen.G,Ruler
+2022-10-30,12.18,Gen.G,DRX,DRX,Camille,Ezreal,Gen.G,Ruler
+2022-10-30,12.18,DRX,Gen.G,DRX,Gnar,Caitlyn,DRX,Deft
+2022-10-30,12.18,Gen.G,DRX,Gen.G,Ashe,Varus,Gen.G,Ruler
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Kalista,Aphelios,EDward Gaming,Viper
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Heimerdinger,Varus,EDward Gaming,Viper
+2022-10-23,12.18,DRX,EDward Gaming,DRX,Aphelios,Draven,DRX,Deft
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Kai'Sa,Ezreal,DRX,Deft
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Varus,Ashe,DRX,Deft
+2022-10-16,12.18,DRX,Rogue (European Team),DRX,Renekton,Caitlyn,DRX,Deft
+2022-10-16,12.18,Top Esports,DRX,Top Esports,Renata Glasc,Lucian,Top Esports,JackeyLove
+2022-10-15,12.18,DRX,GAM Esports,DRX,Lee Sin,Ashe,DRX,Deft
+2022-10-15,12.18,DRX,Rogue (European Team),DRX,Rakan,Ashe,DRX,Deft
+2022-10-11,12.18,GAM Esports,DRX,DRX,Renata Glasc,Kai'Sa,GAM Esports,Sty1e
+2022-10-10,12.18,DRX,Top Esports,DRX,Viego,Caitlyn,DRX,Deft
+2022-10-08,12.18,Rogue (European Team),DRX,Rogue (European Team),Fiora,Lucian,Rogue (European Team),Comp
+2022-10-03,12.18,DRX,MAD Lions,DRX,Renekton,Sivir,DRX,Deft
+2022-10-02,12.18,Isurus,DRX,DRX,Mordekaiser,Aphelios,Isurus,Gavotto
+2022-10-01,12.18,Istanbul Wildcats,DRX,DRX,Camille,Kalista,Istanbul Wildcats,HolyPhoenix
+2022-10-01,12.18,DRX,Saigon Buffalo,DRX,Miss Fortune,Ezreal,DRX,Deft
+2022-09-30,12.18,DRX,Royal Never Give Up,DRX,Aphelios,Tristana,DRX,Deft
+2022-10-30,12.18,JD Gaming,T1,T1,Tahm Kench,Jhin,JD Gaming,Hope
+2022-10-29,12.18,JD Gaming,T1,T1,Lee Sin,Aphelios,JD Gaming,Hope
+2022-10-29,12.18,T1,JD Gaming,T1,Vi,Lucian,T1,Gumayusi
+2022-10-29,12.18,T1,JD Gaming,JD Gaming,Ornn,Lucian,T1,Gumayusi
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Renata Glasc,Aphelios,Royal Never Give Up,GALA
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Lucian,Kai'Sa,Royal Never Give Up,GALA
+2022-10-21,12.18,T1,Royal Never Give Up,T1,Galio,Ashe,T1,Gumayusi
+2022-10-13,12.18,EDward Gaming,T1,T1,Renata Glasc,Aphelios,EDward Gaming,Viper
+2022-10-13,12.18,T1,Cloud9,T1,Alistar,Lucian,T1,Gumayusi
+2022-10-13,12.18,T1,Fnatic,T1,LeBlanc,Sivir,T1,Gumayusi
+2022-10-10,12.18,Cloud9,T1,T1,Thresh,Tristana,Cloud9,Berserker
+2022-10-08,12.18,Fnatic,T1,Fnatic,Trundle,Lucian,Fnatic,Upset
+2022-10-08,12.18,T1,EDward Gaming,T1,Renekton,Sivir,T1,Gumayusi
+2022-10-31,12.18,Gen.G,DRX,DRX,Karma,Nautilus,Gen.G,Lehends
+2022-10-30,12.18,Gen.G,DRX,DRX,Gragas,Karma,Gen.G,Lehends
+2022-10-30,12.18,DRX,Gen.G,DRX,Camille,Lux,DRX,BeryL
+2022-10-30,12.18,Gen.G,DRX,Gen.G,Karma,Tahm Kench,Gen.G,Lehends
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Varus,Lulu,EDward Gaming,Meiko
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Soraka,Renata Glasc,EDward Gaming,Meiko
+2022-10-23,12.18,DRX,EDward Gaming,DRX,Lulu,Soraka,DRX,BeryL
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Soraka,Heimerdinger,DRX,BeryL
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Ezreal,Heimerdinger,DRX,BeryL
+2022-10-16,12.18,DRX,Rogue (European Team),DRX,Jarvan IV,Lux,DRX,BeryL
+2022-10-16,12.18,Top Esports,DRX,Top Esports,Kalista,Nami,Top Esports,Mark
+2022-10-15,12.18,DRX,GAM Esports,DRX,Graves,Heimerdinger,DRX,BeryL
+2022-10-15,12.18,DRX,Rogue (European Team),DRX,Soraka,Heimerdinger,DRX,BeryL
+2022-10-11,12.18,GAM Esports,DRX,DRX,Aphelios,Leona,GAM Esports,Bie
+2022-10-10,12.18,DRX,Top Esports,DRX,Lee Sin,Braum,DRX,BeryL
+2022-10-08,12.18,Rogue (European Team),DRX,Rogue (European Team),Nautilus,Nami,Rogue (European Team),Trymbi
+2022-10-03,12.18,DRX,MAD Lions,DRX,Gwen,Yuumi,DRX,BeryL
+2022-10-02,12.18,Isurus,DRX,DRX,Gwen,Alistar,Isurus,Jelly
+2022-10-01,12.18,Istanbul Wildcats,DRX,DRX,Alistar,Leona,Istanbul Wildcats,Farfetch
+2022-10-01,12.18,DRX,Saigon Buffalo,DRX,Nautilus,Tahm Kench,DRX,BeryL
+2022-09-30,12.18,DRX,Royal Never Give Up,DRX,Kai'Sa,Rell,DRX,BeryL
+2022-10-30,12.18,JD Gaming,T1,T1,Fiora,Karma,JD Gaming,Missing
+2022-10-29,12.18,JD Gaming,T1,T1,Jayce,Lulu,JD Gaming,Missing
+2022-10-29,12.18,T1,JD Gaming,T1,Renekton,Nami,T1,Keria
+2022-10-29,12.18,T1,JD Gaming,JD Gaming,Renekton,Nami,T1,Keria
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Thresh,Soraka,Royal Never Give Up,Ming
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Heimerdinger,Nautilus,Royal Never Give Up,Ming
+2022-10-21,12.18,T1,Royal Never Give Up,T1,Taliyah,Heimerdinger,T1,Keria
+2022-10-13,12.18,EDward Gaming,T1,T1,Pyke,Thresh,EDward Gaming,Meiko
+2022-10-13,12.18,T1,Cloud9,T1,Draven,Nami,T1,Keria
+2022-10-13,12.18,T1,Fnatic,T1,Renekton,Yuumi,T1,Keria
+2022-10-10,12.18,Cloud9,T1,T1,Nautilus,Leona,Cloud9,Zven
+2022-10-08,12.18,Fnatic,T1,Fnatic,Hecarim,Nami,Fnatic,Hylissang
+2022-10-08,12.18,T1,EDward Gaming,T1,Jarvan IV,Yuumi,T1,Keria
+2022-10-31,12.18,Gen.G,DRX,DRX,Yuumi,Gragas,DRX,Kingen
+2022-10-30,12.18,Gen.G,DRX,DRX,Yuumi,Ornn,DRX,Kingen
+2022-10-30,12.18,DRX,Gen.G,DRX,Heimerdinger,Ornn,Gen.G,Doran
+2022-10-30,12.18,Gen.G,DRX,Gen.G,Yuumi,Camille,DRX,Kingen
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Lucian,Fiora,DRX,Kingen
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Lucian,Camille,DRX,Kingen
+2022-10-23,12.18,DRX,EDward Gaming,DRX,Yuumi,Fiora,EDward Gaming,Flandre
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Yuumi,Jax,EDward Gaming,Flandre
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Yuumi,Kennen,EDward Gaming,Flandre
+2022-10-16,12.18,DRX,Rogue (European Team),DRX,Aatrox,Gnar,Rogue (European Team),Odoamne
+2022-10-16,12.18,Top Esports,DRX,Top Esports,Yuumi,Maokai,DRX,Kingen
+2022-10-15,12.18,DRX,GAM Esports,DRX,Caitlyn,Fiora,GAM Esports,Kiaya
+2022-10-15,12.18,DRX,Rogue (European Team),DRX,Yuumi,Rumble,Rogue (European Team),Odoamne
+2022-10-11,12.18,GAM Esports,DRX,DRX,Sejuani,Ornn,DRX,Kingen
+2022-10-10,12.18,DRX,Top Esports,DRX,Aatrox,Jax,Top Esports,Wayward
+2022-10-08,12.18,Rogue (European Team),DRX,Rogue (European Team),Jarvan IV,Sejuani,DRX,Kingen
+2022-10-03,12.18,DRX,MAD Lions,DRX,Caitlyn,Mordekaiser,MAD Lions,Armut
+2022-10-02,12.18,Isurus,DRX,DRX,Ornn,Sylas,DRX,Kingen
+2022-10-01,12.18,Istanbul Wildcats,DRX,DRX,Sejuani,Gnar,DRX,Kingen
+2022-10-01,12.18,DRX,Saigon Buffalo,DRX,Caitlyn,Irelia,Saigon Buffalo,Hasmed
+2022-09-30,12.18,DRX,Royal Never Give Up,DRX,Yuumi,Jax,Royal Never Give Up,Breathe
+2022-10-30,12.18,JD Gaming,T1,T1,Yuumi,Gragas,T1,Zeus
+2022-10-29,12.18,JD Gaming,T1,T1,Yuumi,Gangplank,T1,Zeus
+2022-10-29,12.18,T1,JD Gaming,T1,Caitlyn,Malphite,JD Gaming,369
+2022-10-29,12.18,T1,JD Gaming,JD Gaming,Caitlyn,Jax,JD Gaming,369
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Yuumi,Yone,T1,Zeus
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Lissandra,Jayce,T1,Zeus
+2022-10-21,12.18,T1,Royal Never Give Up,T1,Yuumi,Renekton,Royal Never Give Up,Breathe
+2022-10-13,12.18,EDward Gaming,T1,T1,Yuumi,Gangplank,T1,Zeus
+2022-10-13,12.18,T1,Cloud9,T1,Yuumi,Fiora,Cloud9,Fudge
+2022-10-13,12.18,T1,Fnatic,T1,Caitlyn,Maokai,Fnatic,Wunder
+2022-10-10,12.18,Cloud9,T1,T1,Yuumi,Aatrox,T1,Zeus
+2022-10-08,12.18,Fnatic,T1,Fnatic,Maokai,Jax,T1,Zeus
+2022-10-08,12.18,T1,EDward Gaming,T1,Caitlyn,Ornn,EDward Gaming,Flandre
+2022-10-31,12.18,Gen.G,DRX,DRX,Lucian,Kindred,DRX,Pyosik
+2022-10-30,12.18,Gen.G,DRX,DRX,Lucian,Viego,DRX,Pyosik
+2022-10-30,12.18,DRX,Gen.G,DRX,Aatrox,Graves,Gen.G,Peanut
+2022-10-30,12.18,Gen.G,DRX,Gen.G,Lucian,Sejuani,DRX,Pyosik
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Azir,Viego,DRX,Pyosik
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Viktor,Sejuani,DRX,Pyosik
+2022-10-23,12.18,DRX,EDward Gaming,DRX,Caitlyn,Graves,EDward Gaming,JieJie
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Caitlyn,Sejuani,EDward Gaming,JieJie
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Caitlyn,Lee Sin,EDward Gaming,JieJie
+2022-10-16,12.18,DRX,Rogue (European Team),DRX,Heimerdinger,Lee Sin,Rogue (European Team),Malrang
+2022-10-16,12.18,Top Esports,DRX,Top Esports,Caitlyn,Graves,DRX,Pyosik
+2022-10-15,12.18,DRX,GAM Esports,DRX,Azir,Jarvan IV,GAM Esports,Levi
+2022-10-15,12.18,DRX,Rogue (European Team),DRX,Caitlyn,Jarvan IV,Rogue (European Team),Malrang
+2022-10-11,12.18,GAM Esports,DRX,DRX,Yuumi,Kindred,DRX,Pyosik
+2022-10-10,12.18,DRX,Top Esports,DRX,Yuumi,Vi,Top Esports,Tian
+2022-10-08,12.18,Rogue (European Team),DRX,Rogue (European Team),Caitlyn,Lee Sin,DRX,Juhan
+2022-10-03,12.18,DRX,MAD Lions,DRX,Aatrox,Bel'Veth,MAD Lions,Elyoya
+2022-10-02,12.18,Isurus,DRX,DRX,Graves,Sejuani,DRX,Pyosik
+2022-10-01,12.18,Istanbul Wildcats,DRX,DRX,Hecarim,Maokai,DRX,Juhan
+2022-10-01,12.18,DRX,Saigon Buffalo,DRX,Yuumi,Graves,Saigon Buffalo,BeanJ
+2022-09-30,12.18,DRX,Royal Never Give Up,DRX,Caitlyn,Vi,Royal Never Give Up,Wei
+2022-10-30,12.18,JD Gaming,T1,T1,Aatrox,Viego,T1,Oner
+2022-10-29,12.18,JD Gaming,T1,T1,Aatrox,Nocturne,T1,Oner
+2022-10-29,12.18,T1,JD Gaming,T1,Yuumi,Bel'Veth,JD Gaming,Kanavi
+2022-10-29,12.18,T1,JD Gaming,JD Gaming,Yuumi,Viego,JD Gaming,Kanavi
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Lissandra,Sejuani,T1,Oner
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Aatrox,Viego,T1,Oner
+2022-10-21,12.18,T1,Royal Never Give Up,T1,Caitlyn,Viego,Royal Never Give Up,Wei
+2022-10-13,12.18,EDward Gaming,T1,T1,Caitlyn,Sejuani,T1,Oner
+2022-10-13,12.18,T1,Cloud9,T1,Caitlyn,Bel'Veth,Cloud9,Blaber
+2022-10-13,12.18,T1,Fnatic,T1,Aatrox,Poppy,Fnatic,Razork
+2022-10-10,12.18,Cloud9,T1,T1,Sejuani,Viego,T1,Oner
+2022-10-08,12.18,Fnatic,T1,Fnatic,Sejuani,Viego,T1,Oner
+2022-10-08,12.18,T1,EDward Gaming,T1,Sejuani,Vi,EDward Gaming,JieJie
+2022-10-31,12.18,Gen.G,DRX,DRX,Caitlyn,Galio,DRX,Zeka
+2022-10-30,12.18,Gen.G,DRX,DRX,Caitlyn,Akali,DRX,Zeka
+2022-10-30,12.18,DRX,Gen.G,DRX,Yuumi,Sylas,Gen.G,Chovy
+2022-10-30,12.18,Gen.G,DRX,Gen.G,Caitlyn,Azir,DRX,Zeka
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Yuumi,Sylas,DRX,Zeka
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Yuumi,Azir,DRX,Zeka
+2022-10-23,12.18,DRX,EDward Gaming,DRX,Heimerdinger,Viktor,EDward Gaming,Scout
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Maokai,Azir,EDward Gaming,Scout
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Aatrox,Azir,EDward Gaming,Scout
+2022-10-16,12.18,DRX,Rogue (European Team),DRX,Yuumi,LeBlanc,Rogue (European Team),Larssen
+2022-10-16,12.18,Top Esports,DRX,Top Esports,Draven,Azir,DRX,Zeka
+2022-10-15,12.18,DRX,GAM Esports,DRX,Maokai,Anivia,GAM Esports,Kati
+2022-10-15,12.18,DRX,Rogue (European Team),DRX,Sejuani,Azir,Rogue (European Team),Larssen
+2022-10-11,12.18,GAM Esports,DRX,DRX,Aatrox,Sylas,DRX,Zeka
+2022-10-10,12.18,DRX,Top Esports,DRX,Maokai,Azir,Top Esports,knight
+2022-10-08,12.18,Rogue (European Team),DRX,Rogue (European Team),Yuumi,Akali,DRX,Zeka
+2022-10-03,12.18,DRX,MAD Lions,DRX,Akali,Vex,MAD Lions,Nisqy
+2022-10-02,12.18,Isurus,DRX,DRX,LeBlanc,Yone,DRX,Zeka
+2022-10-01,12.18,Istanbul Wildcats,DRX,DRX,Poppy,Akali,DRX,Zeka
+2022-10-01,12.18,DRX,Saigon Buffalo,DRX,LeBlanc,Galio,Saigon Buffalo,Froggy
+2022-09-30,12.18,DRX,Royal Never Give Up,DRX,Sylas,LeBlanc,Royal Never Give Up,Xiaohu
+2022-10-30,12.18,JD Gaming,T1,T1,Graves,Azir,T1,Faker
+2022-10-29,12.18,JD Gaming,T1,T1,Graves,Ryze,T1,Faker
+2022-10-29,12.18,T1,JD Gaming,T1,Graves,Sylas,JD Gaming,Yagao
+2022-10-29,12.18,T1,JD Gaming,JD Gaming,Graves,Taliyah,JD Gaming,Yagao
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Fiora,Akali,T1,Faker
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Yuumi,Akali,T1,Faker
+2022-10-21,12.18,T1,Royal Never Give Up,T1,Aatrox,Akali,Royal Never Give Up,Xiaohu
+2022-10-13,12.18,EDward Gaming,T1,T1,Fiora,Viktor,T1,Faker
+2022-10-13,12.18,T1,Cloud9,T1,Aatrox,Akali,Cloud9,Jensen
+2022-10-13,12.18,T1,Fnatic,T1,Fiora,Akali,Fnatic,Humanoid
+2022-10-10,12.18,Cloud9,T1,T1,Maokai,Lissandra,T1,Faker
+2022-10-08,12.18,Fnatic,T1,Fnatic,Yuumi,Akali,T1,Faker
+2022-10-08,12.18,T1,EDward Gaming,T1,Aatrox,Azir,EDward Gaming,Scout
+2022-10-31,12.18,Gen.G,DRX,DRX,Aphelios,Varus,DRX,Deft
+2022-10-30,12.18,Gen.G,DRX,DRX,Renekton,Varus,DRX,Deft
+2022-10-30,12.18,DRX,Gen.G,DRX,Akali,Varus,Gen.G,Ruler
+2022-10-30,12.18,Gen.G,DRX,Gen.G,Renekton,Miss Fortune,DRX,Deft
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Renekton,Ezreal,DRX,Deft
+2022-10-24,12.18,EDward Gaming,DRX,DRX,Aphelios,Kalista,DRX,Deft
+2022-10-23,12.18,DRX,EDward Gaming,DRX,Ashe,Kalista,EDward Gaming,Viper
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Ashe,Aphelios,EDward Gaming,Viper
+2022-10-23,12.18,DRX,EDward Gaming,EDward Gaming,Sylas,Sivir,EDward Gaming,Viper
+2022-10-16,12.18,DRX,Rogue (European Team),DRX,Sejuani,Ezreal,Rogue (European Team),Comp
+2022-10-16,12.18,Top Esports,DRX,Top Esports,Sejuani,Miss Fortune,DRX,Deft
+2022-10-15,12.18,DRX,GAM Esports,DRX,Akali,Kalista,GAM Esports,Sty1e
+2022-10-15,12.18,DRX,Rogue (European Team),DRX,Viktor,Kalista,Rogue (European Team),Comp
+2022-10-11,12.18,GAM Esports,DRX,DRX,Camille,Tristana,DRX,Deft
+2022-10-10,12.18,DRX,Top Esports,DRX,Heimerdinger,Draven,Top Esports,JackeyLove
+2022-10-08,12.18,Rogue (European Team),DRX,Rogue (European Team),LeBlanc,Miss Fortune,DRX,Deft
+2022-10-03,12.18,DRX,MAD Lions,DRX,Maokai,Miss Fortune,MAD Lions,UNF0RGIVEN
+2022-10-02,12.18,Isurus,DRX,DRX,Thresh,Miss Fortune,DRX,Deft
+2022-10-01,12.18,Istanbul Wildcats,DRX,DRX,Lee Sin,Miss Fortune,DRX,Deft
+2022-10-01,12.18,DRX,Saigon Buffalo,DRX,Kai'Sa,Xayah,Saigon Buffalo,Shogun
+2022-09-30,12.18,DRX,Royal Never Give Up,DRX,Kalista,Nilah,Royal Never Give Up,GALA
+2022-10-30,12.18,JD Gaming,T1,T1,Taliyah,Varus,T1,Gumayusi
+2022-10-29,12.18,JD Gaming,T1,T1,Taliyah,Lucian,T1,Gumayusi
+2022-10-29,12.18,T1,JD Gaming,T1,Lee Sin,Aphelios,JD Gaming,Hope
+2022-10-29,12.18,T1,JD Gaming,JD Gaming,Viktor,Aphelios,JD Gaming,Hope
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Kai'Sa,Varus,T1,Gumayusi
+2022-10-21,12.18,Royal Never Give Up,T1,T1,Aphelios,Xayah,T1,Gumayusi
+2022-10-21,12.18,T1,Royal Never Give Up,T1,Sylas,Aphelios,Royal Never Give Up,GALA
+2022-10-13,12.18,EDward Gaming,T1,T1,Akali,Kalista,T1,Gumayusi
+2022-10-13,12.18,T1,Cloud9,T1,Renekton,Kai'Sa,Cloud9,Berserker
+2022-10-13,12.18,T1,Fnatic,T1,Jax,Lucian,Fnatic,Upset
+2022-10-10,12.18,Cloud9,T1,T1,Renata Glasc,Kai'Sa,T1,Gumayusi
+2022-10-08,12.18,Fnatic,T1,Fnatic,Pyke,Aphelios,T1,Gumayusi
+2022-10-08,12.18,T1,EDward Gaming,T1,Kennen,Kalista,EDward Gaming,Viper
