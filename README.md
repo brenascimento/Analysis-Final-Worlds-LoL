@@ -1,4 +1,6 @@
-# Projeto Análise de Dados - Análise Final Mundial de League of Legends 2022
+# Projeto - Análise e Extração de Dados - Mundial de League of Legends 2022
+
+<em>A melhor forma de aprender e adquirir experiência é fazendo um projeto de assuntos que gostamos, e para mim `eSports` e `League of Legends é um dos que mais gosto. </em>
 
 ## O que é League of Legends?
 <img src="https://elchapuzasinformatico.com/wp-content/uploads/2021/11/League-of-Legends.jpeg">
