@@ -29,35 +29,17 @@ O evento ocorre sempre no final do ano, agrupando os melhores times de cada regi
 
 É no Mundial que ocorre as melhores partidas, as melhores batalhas, e as melhores viradas. Lá também é onde os players fãs do eSport aprendem novas estratégias, novas mecânicas, novas maneiras de fazer as coisas acontecerem. Todos os times lutam pela taça.
 
-A <b>final</b> do Mundial 2022 já chegou(sábado - 05/11) e quem disputará a taça será os dois times sul-coreanos `T1` e `DRX`
+Nesse Mundial, o time da `DRX` levou a melhor contra o time da `T1`. Mas nesse Mundial, como foi a performance de cada jogador? quais foram os personagens que mais trouxeram vitórias para os times? 
 
-<img src="https://noticias.maisesports.com.br/wp-content/uploads/2021/12/t1-line-up-lck-2022.jpeg" width=500>
-
-A T1 é conhecida por ser o time do `Faker` que é um <em>pro-player</em> experiente, já ganhou alguns outros mundiais, e mesmo com a idade de 26 continua na ativa (pois é bem comum que os <em>pro-players</em> de <em>LoL</em> se aposentarem depois dos 24 anos). Mas além do Faker a T1 também contém outros ótimos talentos: `Zeus`, `Oner`, `Gumayusi` e `Keria` e como reserva `Asper`, e é a favorita para ganhar esse mundial.
-
-<img src="https://pbs.twimg.com/media/FdAPU1faAAAusq6.jpg:large" width=500>
-
-A DRX foi um time que regionalmente não desempenhou muito bem, porém mostrou seu valor no Mundial, sendo o primeiro time de fase de entrada (que jogou contra regiões menores) a chegar na Final do Mundial. Depois de uma virada épica nas Quartas de Finais, e depois derrotando a gigante `GenG`(outro time sul-coreano), ela finalmente chegou na final. Ela conta com um elenco de: `Kingen`, `Pyosik`, `Zeka`, `Deft`, `BeryL` e como reservas `Juhan` e `Taeyoon`. sendo `Deft` e `BeryL` dois jogadores experientes, e tendo dois outros talentos: `Pyosik` e `Zeka`. Mesmo assim terá um caminho difícil para vencer a T1 que vem muito forte.
-
-Essa última partida será no formato de Melhor de 5 (MD5) em que o primeiro time a ter 3 vitórias, leva a taça.
+É com essa e algumas perguntas que irei extrair, limpar e analisar os dados de `partidas por jogadores` e `partida por campeões` e apresenta-la em um Dashboard utilizando POWER BI
 
 ## Sobre o projeto
 
-Nesse projeto vou analisar usando dados extraídos do site: `lol.fandom.com`(conhecido como leaguepedia)
+Nesse projeto vou analisar usando dados extraídos do site: `lol.fandom.com`(conhecido como leaguepedia) utilizando a ferramenta Scrapy. Também fiz o requerimento de dados utilizando o modelo de Diagrama Entidade-Relacionamento no LucidChart - Pois facilita na hora de saber quais dados extrair. 
 
-### Datasets
-* `match_history_teams.csv` - dataset contendo as partidas de ambos os times no decorrer do Mundial 2022
-* `league_parser/champion_stats.csv` - dataset contendo os dados dos campeões/personagens jogados ao decorrer do Mundial 2022
+<img src="imagens/diagram_data_requirements_worlds_2022.jpeg" width="550" alt="Requerimento de dados"/><br>
+<em>Diagrama de Entidade-Relacionamento(Work in Progress)</em>
 
-
-## Hipóteses
-1. É mais provável a T1 ganhar essa final em um jogo melhor de 5 da DRX?
-
-## Ideias
-1. Quais campeões/personagens com a maior probabilidade de vencer contra a T1?
-2. Quais campeões/personagens com a maior probabilidade de vencer a DRX?
-3. Quais campeões/personagens provavelmente será escolhido pela T1?
-4. Quais campeões/personagens provavelmente será escolhido pela DRX?
 
 ## Libs/Tools
 * Scrapy
