@@ -42,12 +42,61 @@ Nesse projeto vou analisar usando dados extraídos do site: `lol.fandom.com`(con
 <img src="imagens/diagram_data_requirements_worlds_2022.jpeg" width="550" alt="Requerimento de dados"/><br>
 <em>Diagrama de Entidade-Relacionamento(Work in Progress)</em>
 
+Fiz as extrações de dados e populei em um Banco de Dados SQL Server utilizando o `pyodbc`, também fiz mudanças em:
+* `items.py` - criar os meus modelos de dados para uso no <em>items pipelines</em>
+* `pipelines.py` - um pipeline de dados para popular o banco de dados
+* `settings.py` - ativação do `ITEM_PIPELINES`
+
+## Dicionario de Dados
+ - <h3>Teams</h3>
+<table>
+    <tr>
+        <th>Coluna</th>
+        <th>Descrição</th>
+    <tr>
+    <tr>
+        <td>ID_Team</td>
+        <td>Id de cada time especifícado no Banco de Dados</td>
+    </tr>
+    <tr>
+        <td>team_name</td>
+        <td>Nome da equipe participante do Worlds 2022(Main Event)</td>
+    </tr>
+    <tr>
+        <td>image_link</td>
+        <td>Link para a imagem do brasão do time</td>
+    </tr>
+</table>
+
+ - <h3>Player</h3>
+<table>
+    <tr>
+        <th>Coluna</th>
+        <th>Descrição</th>
+    <tr>
+    <tr>
+        <td>ID_Player</td>
+        <td>Id de cada player especifícado no Banco de Dados</td>
+    </tr>
+    <tr>
+        <td>player_name</td>
+        <td>Nome(<em>nickname</em>) de cada time participante do Worlds 2022</td>
+    </tr>
+    <tr>
+        <td>player_role</td>
+        <td>Posição do jogador em seu time</td>
+    </tr>
+</table>
+
+
 
 ## Libs/Tools
 * Scrapy
 * BeautifulSoup
 * Pandas
 * Power BI
+* pyodbc
+* SQL Server Management System
 
 
 
